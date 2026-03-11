@@ -1,6 +1,6 @@
 {
   "name": "xairas-cve",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI tool to monitor CVE reports for your tech stack, categorized by ecosystem and version, with Telegram notifications.",
   "main": "src/index.js",
   "type": "module",
