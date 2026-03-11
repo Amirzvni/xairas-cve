@@ -5,14 +5,14 @@
   "main": "src/index.js",
   "type": "module",
   "bin": {
-    "xairas-cve": "./src/cli.js"
+    "xairas-cve": "src/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Amirzvni/xairas-cve.git"
+    "url": "git+https://github.com/Amirzvni/xairas-cve.git"
   },
   "author": "Amir Rezvani",
   "license": "MIT",
